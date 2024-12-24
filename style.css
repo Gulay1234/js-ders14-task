@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    padding-top: 280px;
+    background: rgb(151,37,158);
+    background: linear-gradient(146deg, rgba(151,37,158,1) 0%, rgba(3,109,161,1) 62%);
+}
+.item{
+    width: 25vw;
+    height: 40vh;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+h1{
+    padding-top: 45px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+#inp{
+    margin-left: 20px;
+    width: 23vw;
+    margin-top: 15px;
+    padding: 13px;
+}
+button{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 23vw;
+    padding: 13px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 166, 12);
+    color: white;
+    font-size: 17px;
+}
+p{
+    width: 23vw;
+    padding: 15px;
+    background-color: rgb(228, 228, 228);
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-left: 20px;
+}
